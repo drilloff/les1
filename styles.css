@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0:
+}
+body {
+   height: 100%;
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+.mainHeader{
+    background-color: #445162;
+    margin: 0 -50px;
+    padding: 50px;
+}
+.mainHeader h2{
+text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 60px;
+font-weight: 400;
+margin-bottom: 50px;   
+}
+.mainHeader li{
+    list-style-type: circle;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 20px;
+font-weight: 400;
+line-height: 36px;
+ }
+.logo{
+    float:right;
+    width: 469px;
+height: 214px;
+background-color: #ffffff;
+}
+.about h4{
+color: #445161;
+font-family: "Arial MT";
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+margin: 49px 0 30px 0;
+}
+.about p{
+color: #333333;
+font-family: "Arial MT";
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+.video{
+    width: 430px;
+height: 245px;
+background-color: #445161;
+    float:right;
+    }
+.pluses{
+    margin: 99px -50px 102px;
+    padding: 50px;
+    background-color: #f5f5f5;
+}
+.pluses h4{
+color: #445161;
+font-family: "Arial MT";
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+text-align: center;
+margin-bottom: 29px;
+}
+.pluses li{
+   padding-bottom: 36px;
+    list-style-type: none;
+    background: url(img/check_icon.png);
+  }
+
